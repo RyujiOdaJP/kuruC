@@ -1,0 +1,3 @@
+/Users/ryujioda/project/CLionProjects/kuruC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ryujioda/project/CLionProjects/kuruC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ryujioda/project/CLionProjects/kuruC/cmake-build-debug/CMakeFiles/kuruC.dir
