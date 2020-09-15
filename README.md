@@ -1,0 +1,2 @@
+# kuruC
+C practice
